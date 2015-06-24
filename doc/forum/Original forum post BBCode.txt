@@ -1,0 +1,601 @@
+[p][img]http://i.imgur.com/7y6psPI.png[/img]
+
+This mod adds more zombies to the game, each with their own special properties and abilities. It currently adds 14 new mobs to the game and I am planning to continue development on this mod.
+
+[b]Current Mobs/Features:[/b]
+Zombie Notch
+[img]http://i.imgur.com/VnxYbfq.png[/img]
+Features[/p]
+[list]
+[*]Kills the player instantly
+[*]Walks twice as slow as a normal zombie
+[*]Drops 0-4 Apples
+[*]Rare drop of Golden Apples
+[*]Burns in the daylight
+[*]Fights Zombie Herobrine
+[/list]
+[p]Zombie Miner
+[img]http://i.imgur.com/8D2tGkP.png[/img]
+Features[/p]
+[list]
+[*]Does not burn in the daylight
+[*]Walks as fast as the player
+[*]Drops 0-4 Cobblestone
+[*]Attack does 1 heart of damage
+[*]Holds an Iron Pickaxe
+[/list]
+[p]Zombie Creeper
+[img]http://i.imgur.com/wSjhSFb.png[/img]
+Features[/p]
+[list]
+[*]Drops 0-4 TNT Blocks
+[*]Same speed as a normal zombie
+[*]Burns in the daylight
+[*]Has a larger explosion radius
+[*]Attacks villagers
+[/list]
+[p]Zombie Pirate
+[img]http://i.imgur.com/MtyvVte.png[/img]
+Features[/p]
+[list]
+[*]Does not burn in the daylight
+[*]Attack is twice as strong as a normal zombie
+[*]Drops 0-4 Gold Nuggets
+[*]Rare chance of dropping other golden items
+[*]Same speed as the player
+[*]Holds a Gold Sword
+[/list]
+[p]Zombie Pa
+[img]http://i.imgur.com/4YP7g90.png[/img]
+Features[/p]
+[list]
+[*]Does not burn in the daylight
+[*]Attack is 3 times the strength of a normal zombie
+[*]Drops 0-4 Leather
+[*]Rare chance of dropping Leather Armour
+[*]Walks slightly faster than the player
+[/list]
+[p]Nether Zombie
+[img]http://i.imgur.com/HGpt2TE.png[/img]
+Features[/p]
+[list]
+[*]Only found in the Nether
+[*]Invulnerable to fire damage
+[*]Attack is as strong as a normal zombie
+[*]Drops 0-4 Rotten Flesh
+[*]Rare chance of dropping Nether related items
+[*]Same speed as a normal zombie
+[*]When attacked, makes Zombie Pigman sounds
+[*]When dead, makes Ghast sounds
+[/list]
+[p]Zombie Cyborg
+[img]http://i.imgur.com/gbxycKk.png[/img]
+Features[/p]
+[list]
+[*]Does not burn in the daylight
+[*]When attacked, makes metal sounds
+[*]Double the attack strength than a normal zombie
+[*]Drops 0-4 Redstone
+[*]Rare chance of dropping other redstone related items
+[/list]
+[p]Zombie Dwarf
+[img]http://i.imgur.com/m7chyEp.png[/img]
+Features[/p]
+[list]
+[*]Walks as fast as the player
+[*]Attack deals 1/2 a heart of damage
+[*]Grunts when attacked
+[*]Drops 0-4 Coal
+[*]Burns in the daylight
+[/list]
+[p]Zombie Herobrine
+[img]http://i.imgur.com/fLNxbvJ.png[/img]
+Features[/p]
+[list]
+[*]Really fast
+[*]Does not burn in the daylight
+[*]Drops 0-4 Fire blocks
+[*]Rare chance of dropping Diamonds
+[*]Always burning
+[*]Glows in the darkness
+[*]Only makes a sound when walking
+[*]Attacks Zombie Notch
+[/list]
+[p]Zombie King
+[img]http://i.imgur.com/wNXaFmk.png[/img]
+Features[/p]
+[list]
+[*]Walks slower than a normal zombie due to the weight of his armour
+[*]Does not burn in the daylight
+[*]Armour protects the zombie as armour would protect a player
+[*]Deals as much damages as a player
+[*]Drops 0-4 Gold ingots
+[*]Rare chance of dropping other gold related items
+[/list]
+[p]Zombie Knight
+[img]http://i.imgur.com/Q8cOjSp.png[/img]
+Features[/p]
+[list]
+[*]Does not burn in the daylight
+[*]Attack deals as much damage as a player
+[*]Drops 0-4 Iron Ingots
+[*]Rare chance of dropping chainmail armour
+[*]Holds an Iron Sword
+[/list]
+[p]Disco Zombie
+[img]http://i.imgur.com/B8k4U6t.png[/img]
+Features[/p]
+[list]
+[*]Walks faster than a normal zombie but slower than the player
+[*]Burns in the daylight
+[*]Plays note block sounds
+[*]Spawns note particles
+[*]Drops 0-4 Note blocks
+[*]Dances
+[*]Attack deals 1 heart of damage
+[*]Rare chance to drop a jukebox or any music disc
+[*]Holds a Noteblock
+[/list]
+[p]Zombie Chef
+[img]http://i.imgur.com/17hCzRI.png[/img]
+Features[/p]
+[list]
+[*]Walks as fast as the player
+[*]Burns in the daylight
+[*]Drops a random assortment of food related items from the game
+[*]Attack deals as much as a player
+[*]Holds an Iron Axe
+[/list]
+[p]Survivor
+[img]http://i.imgur.com/YQxFl8t.png[/img]
+Features[/p]
+[list]
+[*]Drops 0-4 Bread
+[*]Spawns during the day
+[*]Same movement speed as the player
+[*]Peaceful
+[*]Still being developed
+[/list]
+[p][b]How to install:[/b]
+Client
+1A.) Download and install Forge Universal 10.13.0 [url=http://www.minecraftforge.net/forum/index.php/topic,21177.0.html]Here[/url].
+1B.) Download the most recent Mo' Zombies version from down below.
+2.) Make sure you have a mods folder in the .minecraft directory, If you don't have this folder, make one.
+3.) Drag the Mo' Zombies jar file into the mods folder.
+4.) Start up the game and survive!
+
+Server
+1A.) Download and install the Minecraft Forge Universal server software.
+1B.) Download the most recent Mo' Zombies version from down below.
+2.) Run the server at-least once in order to generate needed files.
+3.) Drag the Mo' Zombies jar file into the mods folder.
+4.) Run the server and try to survive with friends!
+
+[b]Current downloads for Minecraft 1.7.10:[/b]
+2.1.0 ([url=http://adf.ly/r3Tmq]Adfly[/url]) ([url=https://mega.co.nz/#!dc5gRASJ!lqd2aBieiMJIKwQN3thbLTrFUqbpXXrJLJftvZNJbh0]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/2211390/download]Alt[/url])
+
+[b]Old downloads:[/b][/p]
+[spoiler]These versions are no longer supported. Any issues found in these versions will not be fixed.
+
+Minecraft 1.7.10
+2.0.4 ([url=http://adf.ly/qbjMz]Adfly[/url]) ([url=https://mega.co.nz/#!hVRBxIJL!jU2zH3G-ZpBLF49VtrvtiNIUx6wqQ33wXrEK4KEon_w]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/2209683/download]Alt[/url])
+2.0.3 ([url=http://adf.ly/qGZDV]Adfly[/url]) ([url=https://mega.co.nz/#!YIAFCRiS!ouhJ2uPCjrte0uzFsULOm5AkuTg48diQ3-0s5SzhNQs]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/2207899/download]Alt[/url])
+
+Minecraft 1.7.2
+2.0.2 ([url=http://adf.ly/nmdpx]Adfly[/url]) ([url=https://mega.co.nz/#!UcowzbrR!zxRqzaCMa3vmlR9KWD-8fPsnxksYeilPQHoTIciv0lg]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/2202622/download]Alt[/url])
+2.0.1 ([url=http://adf.ly/nJj4g]Adfly[/url]) ([url=https://mega.co.nz/#!FIwGyLJA!M7olqWfvK8h2Re8EE-vJuQVU9Bh2BBNi47q11cws9zU]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/2202286/download]Alt[/url])
+2.0.0 ([url=http://adf.ly/lrF8M]Adfly[/url]) ([url=https://mega.co.nz/#!gcRwASiI!eKMSEnOO1vKw6Aw85agUQvcdVUCcRyEZ6jkL2YX2xVM]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/789372/download]Alt[/url])
+2.0.0 Beta ([url=http://adf.ly/lVII1]Adfly[/url]) ([url=https://mega.co.nz/#!MIRWnaBa!8g3C4VVIV5n_aM1FvFuop2wXw2b-tkBGBlelh3VMt-Q]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/788590/download]Alt[/url])
+2.0.0 Alpha ([url=http://adf.ly/l8ebC]Adfly[/url]) ([url=https://mega.co.nz/#!9A5iDAAL!fLJ9J2pZm8t28ezCdsHz2X6N0SEWamYJNSyrnLmznlE]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/788242/download]Alt[/url])
+
+Minecraft 1.5.2
+1.55 ([url=http://adf.ly/QNymR]Adfly[/url]) ([url=https://mega.co.nz/#!JBRTXIIb!UTij0VLhEwibdQyBHOxttQ8ADTE6LuCI9hKGHKqzQSc]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/710390/download]Alt[/url])
+1.54 ([url=http://adf.ly/QDqf3]Adfly[/url]) ([url=https://mega.co.nz/#!sNhWTZbR!xJx-CjtbPplSUH5t4DEam4q0JZeZk2gwQaXKEBzbu9A]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/709724/download]Alt[/url])
+1.53 ([url=http://adf.ly/OozZy]Adfly[/url]) ([url=https://mega.co.nz/#!NYg2GAoZ!t9XVm9Jb0lWKMnZRKs-anjrvqdIq7Y1UImjO-LO3ILg]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/701103/download]Alt[/url])
+1.52 ([url=http://adf.ly/OP1Mf]Adfly[/url]) ([url=https://mega.co.nz/#!lJYQHBLL!XJ2FETJl6ljaQdKYnNixv0CMKK02R6g_sSXwtgNC6cg]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/699201/download]Alt[/url])
+
+Minecraft 1.5.1
+1.51 ([url=http://adf.ly/MtIPb]Adfly[/url]) ([url=https://mega.co.nz/#!8VpjiBJY!VUT3g7f0KlDD3aMjcHEH8NO6FeHE1DnPN2GwYwmFTJE]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/693999/download]Alt[/url])
+1.5 ([url=http://adf.ly/LruZi]Adfly[/url]) ([url=https://mega.co.nz/#!tVBDlJgZ!kc4cfcP23RUZzfp3cAkDkfPc8D-DZBEj4Fy1pT3s0d8]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/689452/download]Alt[/url])
+
+Minecraft 1.4.6
+1.42 ([url=http://adf.ly/KUqmn]Adfly[/url]) ([url=https://mega.co.nz/#!VNRmQIgT!UOaZ1ufRXXU4ynxxHcjtmHFRinA2s7_h02GCz2DORUg]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/681208/download]Alt[/url])
+1.42 Beta ([url=http://adf.ly/v1Y3z]Adfly[/url]) ([url=https://mega.co.nz/#!QEwiwJKC!cVZ4RBTOBR4jGCj8T86Vatc1klr1688Qi1yJc40Q7-k]Direct[/url])
+1.41 ([url=http://adf.ly/JW6mg]Adfly[/url]) ([url=https://mega.co.nz/#!4EpwTbLL!BahouWCggyLa7A-3LyXL1ZWb-uvLE-b0pUOJBHjHI44]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/674433/download]Alt[/url])
+1.4 ([url=http://adf.ly/JRudj]Adfly[/url]) ([url=https://mega.co.nz/#!ZNwCWCgZ!Kyu2tNrpdWSmfnxTFMPWLbU-2tT8BWwxGEkt-QcJjwk]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/674212/download]Alt[/url])
+1.34 ([url=http://adf.ly/ISMiY]Adfly[/url]) ([url=https://mega.co.nz/#!4JZE0bwC!qepHdukegweKMPHY47ZdAgxw65kykJTSA1QSz5u_fls]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/669695/download]Alt[/url])
+1.33 ([url=http://adf.ly/IQxpN]Adfly[/url]) ([url=https://mega.co.nz/#!RM5kQCzD!qtnLa14IPilSFM5CutPA9yoiLeUZlNligEi-hYFcjj4]Direct[/url]) ([url=http://minecraft.curseforge.com/mc-mods/50884-mo-zombies/files/669333/download]Alt[/url])
+1.32 (Adfly) ([url=https://mega.co.nz/#!RY4BnIKb!8Bl8iw5HzaMOUoP9bxfQyG6DDly682WRb5i9geeMNIM]Direct[/url])
+1.31 (Adfly) ([url=https://mega.co.nz/#!4cAgFSwT!AboUiLhlSSKzxoarnwIfWFHPF_KOJgOVmg1uO6rGj9k]Direct[/url])
+
+Minecraft 1.4.5
+1.3 (Adfly) ([url=https://mega.co.nz/#!4Jg3RKgS!f1q-8qx_6AyZ4TJEyIN3Em9exye-f0XFtI_iWVynChY]Direct[/url])
+
+Minecraft 1.3.2
+1.27 (Adfly) ([url=https://mega.co.nz/#!xdA23BSb!cn7l8xzc0GCX249FFeWLtFn81zjZkrjpD9rpBE8txIU]Direct[/url])
+1.26 ([url=http://adf.ly/C0zyq]Adfly[/url]) ([url=https://mega.co.nz/#!RUoklC7Y!rrdHKd3W8GU9GIaspiTcVa4FwKu-7W6zzB_s6_PMDAU]Direct[/url])
+1.25 (Adfly) ([url=https://mega.co.nz/#!NcByWTQa!PLbJFOZHrDczAfaxCCF__8Fic2CDdkF59c7Z_gXApgo]Direct[/url])
+
+Minecraft 1.2.5
+1.2 ([url=http://adf.ly/A7dD0]Adfly[/url]) ([url=https://mega.co.nz/#!cEQTgBoD!nzgwdBU5vokZBpaQO_ZaAKPA2jgVnENxcphUYnkMpzs]Direct[/url])
+1.1 [b]Missing; Have a copy of this version? Message me.[/b]
+
+Minecraft 1.1
+1.02 [b]Missing; Have a copy of this version? Message me.[/b]
+1.01 ([url=http://adf.ly/4kuuT]Adfly[/url]) ([url=https://mega.co.nz/#!kcY11bBZ!yESdAFpcwWtxGwUq3DLpNt1UsgnJfBdfM7Mvq5A5etM]Direct[/url])
+
+Minecraft Beta 1.8.1
+1.0 ([url=http://adf.ly/3wTWR]Adfly[/url]) ([url=https://mega.co.nz/#!dJYwTbJJ!iCnn-JLuUULKEh_eyVDzHUdM7oEW61wIrcGffdIyTrE]Direct[/url])
+0.95 ([url=http://adf.ly/3Y7Bk]Adfly[/url]) ([url=https://mega.co.nz/#!8FonzYJK!pDaUGEOpfFUKaoTijjATO9HYQKLiIlnX7XUix5r71cs]Direct[/url])
+0.9 [b]Missing; Have a copy of this version? Message me.[/b]
+
+Minecraft Beta 1.7.3
+0.85 ([url=http://adf.ly/3X7Qf]Adfly[/url]) ([url=https://mega.co.nz/#!BBRl3BDA!aZcLBt6sW2NwAd-g86G3sfzSPOh_3fyb8M_AePBmfO0]Direct[/url])
+0.8 [b]Missing; Have a copy of this version? Message me.[/b]
+0.7 [b]Missing; Have a copy of this version? Message me.[/b]
+0.6 ([url=http://adf.ly/3X7aI]Adfly[/url]) ([url=https://mega.co.nz/#!ZVIiyIwQ!lgfvpLqBsxv1dTQPcHR1t_x5DOnILgjytZ7HC6SUia0]Direct[/url])
+0.5 ([url=http://adf.ly/3X7b1]Adfly[/url]) ([url=https://mega.co.nz/#!hZAFlaID!k6Z5xDItV7qw2yqaSLJ2IyA2s8OElmxiqhfZxX7rWQ4]Direct[/url])
+
+Multiplayer Mod
+0.6 ([url=http://adf.ly/v4Qir]Adfly[/url]) ([url=https://mega.co.nz/#!tEpE0SoY!cti0qCxU6LWAFOzeAIErarc_ry-aPSHdj-9Zxdf0wpE]Direct[/url])
+0.5 [b]Missing; Have a copy of this version? Message me.[/b]
+0.42 ([url=http://adf.ly/v4Qhz]Adfly[/url]) ([url=https://mega.co.nz/#!UQIWHZDR!VLeKl7llbbcB3Xg0k4ku4sA1ATrX4isnrCvv4ymn014]Direct[/url])
+0.41 ([url=http://adf.ly/v4Qh4]Adfly[/url]) ([url=https://mega.co.nz/#!REZUhSgK!MvdcDmWzHPr6nKm3cEBHONbBguRqEpKRu1LJ5DI4_HI]Direct[/url])
+0.4 ([url=http://adf.ly/v4Qfq]Adfly[/url]) ([url=https://mega.co.nz/#!cEYmHAqA!E54rwSiDMJgo3J0BMiXiwUDpVlwFgj2xo007Qfejiag]Direct[/url])
+0.3 ([url=http://adf.ly/v4QeO]Adfly[/url]) ([url=https://mega.co.nz/#!BAoXUZqY!uzA-tyyX03lH3Az8jEEG2rhJX3Qj_pDSg23NIYaFqzo]Direct[/url])
+0.2 ([url=http://adf.ly/v4Qbd]Adfly[/url]) ([url=https://mega.co.nz/#!BIBBnD6Z!0HUzVcEJY7e_1LyPeyyE1uvQ_5IJmeLhMA2cYPf0tbk]Direct[/url])
+0.1 [b]Missing; Have a copy of this version? Message me.[/b][/spoiler]
+[p]
+[b]Known Bugs:[/b][/p]
+[list]
+[*]None
+[/list]
+[p][b]Videos:[/b][/p]
+[spoiler][url=https://www.youtube.com/channel/UC5QA3ePozxshgdIbYafT_fA]LittleLizardGaming[/url]
+[media]http://www.youtube.com/embed/b8OlqNmSgOY[/media]
+
+[url=https://www.youtube.com/user/PopularMMOs]PopularMMOs[/url]
+[media]http://www.youtube.com/embed/pq6_cghp3G8[/media]
+
+[url=http://www.youtube.com/channel/UCNodmx1ERIjKqvcJLtdzH5Q]MinecraftUniverse[/url]
+[media]http://www.youtube.com/embed/MwnZr4VJQPQ[/media]
+
+[url=http://www.youtube.com/user/huskymudkipz]HuskyMudkipz[/url]
+[media]http://www.youtube.com/embed/KRKxt58OMQ0[/media]
+
+[url=http://www.youtube.com/user/CanadianFries?feature=watch]CanadianFries[/url]
+[media]http://www.youtube.com/embed/wmFDNyr-iFc[/media]
+
+[url=http://www.youtube.com/user/TheDiamondMinecart?feature=watch]TheDiamondMinecart[/url]
+[media]http://www.youtube.com/embed/zlH6qPD_Q_k[/media]
+
+[url=http://www.youtube.com/user/CavemanFilms]CavemanFilms[/url]
+[media]http://www.youtube.com/embed/wCmD0NIKIWI[/media]
+
+[url=http://www.youtube.com/user/Badinfos]Badinfos[/url]
+[media]http://www.youtube.com/embed/rEvotRoxsEE[/media]
+
+[url=http://www.youtube.com/user/IPocketIsland]IPocketIsland[/url]
+[media]http://www.youtube.com/embed/czLNa9xyFRU[/media][/spoiler]
+[p]
+[b]FAQ's[/b][b]:[/b][/p]
+[spoiler]
+[quote]Does it require Minecraft Forge? Yes, the most recent version requires Minecraft Forge 10.13.0.
+
+[quote]Can you add support for "X" mod? (X being a variable) Adding support for the thousands of mods available is difficult. In order to add support with another mod, I would need to contact the mod developer (if not open source) and legally get the source code. If I just decompile their mod (get the source code) without permission of the author, my mod could be taken off of this website. However, If you are the mod developer who is reading this, all you would need to do is send me a link to the source code (preferably github) and give me permission to add support for your mod.
+
+[quote]I got a crash error while using your mod. Can you fix it? Sure! Just send me the crash log and I will be sure to have a look at it.
+
+[quote]Will Mo' Zombies work with FeedTheBeast/Tekkit/Other Mods? Yes, Mo' Zombies will work with other mods or modpacks. However, the mobs will not spawn in biomes added by other mods.
+
+[quote]How can I be sure that your mod is not a virus? [url=https://www.virustotal.com/en/file/48f9dc286f67b95fcff3c85b63b59ab8f5de53aef4734666e4c4d89859046cfb/analysis/1407822540/]Here is a VirusTotal scan of the latest version of the mod.[/url]
+
+[quote]Do you have a public Mo' Zombies multiplayer server? I am working on setting one up. Expect one coming soon.
+
+[quote]How many zombies are you planning to add? As many as I can.
+[b]Credits/Thanks to:[/b]
+[spoiler]
+[list]
+[*]To MinerMarcus for creating the Zombie Pirate skin
+[*]To [url=http://www.minecraftskins.com]minecraftskins.com[/url] and [url=http://www.planetminecraft.com]planetminecraft.com[/url] for some of the skins
+[*]To the modders at the #MCP-Modding IRC for answering my questions
+[*]To the modders at the #[size=13px][font=sans-serif][color=rgb(0, 0, 0)]/M[/color][/font][/size]inecraftForge IRC for helping me port my mod to Forge
+[*]The contributors at the Forge Wiki for keeping tutorials up to date
+[*]To chancelove09 and xCLAFx for helping me test the mod
+[*]To naughtydew who gave me the idea for Zombie Herobrine and made the Zombie Chef skin
+[*]To Aaron Govind from [url=http://www.aarongovind.com]aarongovind.com[/url] for making the new mod logo
+[*]To Fanatictekken for the Zombie Knight texture
+[*]To all the YouTubers who have recorded with my mod
+[*]To all the people who have downloaded my mod
+[/list]
+[/spoiler]
+[b]Terms and Conditions:[/b]
+[spoiler]TERMS AND CONDITIONS
+0. USED TERMS
+MOD - modification, plugin, a piece of software that interfaces with the Minecraft client to extend, add, change or remove original capabilities.
+MOJANG - Mojang AB
+OWNER - , Original author(s) of the MOD. Under the copyright terms accepted when purchasing Minecraft ([url=http://minecraft.net/terms]http://minecraft.net/terms[/url]) the OWNER has full rights over their MOD despite use of MOJANG code.
+USER - End user of the mod, person installing the mod.
+
+1. LIABILITY
+THIS MOD IS PROVIDED 'AS IS' WITH NO WARRANTIES, IMPLIED OR OTHERWISE. THE OWNER OF THIS MOD TAKES NO RESPONSIBILITY FOR ANY DAMAGES INCURRED FROM THE USE OF THIS MOD. THIS MOD ALTERS FUNDAMENTAL PARTS OF THE MINECRAFT GAME, PARTS OF MINECRAFT MAY NOT WORK WITH THIS MOD INSTALLED. ALL DAMAGES CAUSED FROM THE USE OR MISUSE OF THIS MOD FALL ON THE USER.
+
+2. USE
+Use of this MOD to be installed, manually or automatically, is given to the USER without restriction.
+
+3. REDISTRIBUTION
+This MOD may only be distributed where uploaded, mirrored, or otherwise linked to by the OWNER solely. All mirrors of this mod must have advance written permission from the OWNER. ANY attempts to make money off of this MOD (selling, selling modified versions, adfly, sharecash, etc.) are STRICTLY FORBIDDEN, and the OWNER may claim damages or take other action to rectify the situation.[/spoiler]
+[b]Donate:[/b]
+[spoiler]Make a donation using PayPal:
+[url=https://www.paypal.com/us/cgi-bin/webscr?cmd=_flow&SESSION=evBcluQjsaG1pulkhLI_SVVlMExccOVSmPoAiEJ_xI3N9wfNcKQefNNjxWi&dispatch=5885d80a13c0db1f8e263663d3faee8db315373d882600b51a5edf961ea39639][img]https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif[/img][/url]
+
+Make a donation by viewing an ad for 5 seconds:
+[url=http://adf.ly/1040993/mo-zombies-forum-post]http://adf.ly/104099...bies-forum-post[/url]
+
+Make a donation using cryptocurrencies:
+Dogecoin - AFBjrsJ2uKBjj4NQdM4NDWAZbyG8xGoqWd
+Bitcoin - 3HGfAKAcDVSKj12usN9PPfHRFLixCgHLTU
+Litecoin - 3Gt1Am5LUsyLAKhPJ1XFer4dMiNXXZ3wxD[/spoiler]
+[b]Changelog:[/b]
+[spoiler]2.1.0
+[list]
+[*]Added update notifications in chat when a new version is available
+[*]Fixed bug which may have caused specific rare drops to not drop
+[/list]
+2.0.4
+[list]
+[*]Fixed incorrect Minecraft version in mcmod.info
+[/list]
+2.0.3
+[list]
+[*]Updated to Minecraft 1.7.10
+[*]Added code for an upcoming feature
+[/list]
+2.0.2:
+[list]
+[*]Fixed spawn rates being too low
+[/list]
+2.0.1:
+[list]
+[*]Made Disco Zombie hold a Noteblock
+[*]Added Russian translation
+[/list]
+2.0.0:
+[list]
+[*]Made Zombie Pirate hold a Gold Sword
+[*]Improved Survivor's collision box (made it higher)
+[*]Increased follow range
+[*]Fixed Disco Zombie not spawning note particles
+[*]Fixed attack damages
+[/list]
+2.0.0 Beta:
+[list]
+[*]Fixed incorrect Disco Zombie sound
+[*]Readded dancing AI to the Disco Zombie
+[*]Readded VoxelMap support
+[*]Made Zombie Miner hold an Iron Pickaxe
+[*]Made Zombie Knight hold an Iron Sword
+[*]Made Zombie Chef hold an Iron Axe
+[*]Added hurt sounds to Survivor
+[*]Fixed texture issue with the Zombie Dwarf's hands
+[*]Removed unused code
+[/list]
+2.0.0 Alpha:
+[list]
+[*]Updated to Minecraft 1.7.2
+[*]Removed Zombie Creeper Cape
+[*]Removed Cookie Zombie
+[*]Removed Zombie Butcher
+[*]Removed VoxelMap support (will be added back soon)
+[*]Added Zombie Chef
+[*]Modified Zombie Notch texture
+[*]Made mobs use the Zombie model
+[*]Added Survivors
+[*]Added language file support. Anyone willing to translate the mod, PM me
+[*]Lots of internal changes and optimizations
+[/list]
+1.55:
+[list]
+[*]Added VoxelMap (AKA Zan's Minimap) EntityRadar support
+[/list]
+1.54:
+[list]
+[*]New Zombie Knight texture (Thanks Fanatictekken)
+[*]Zombie Butcher can now drop raw fish
+[*]By holding a cookie, the Cookie Zombie slows down
+[*]Zombie Pa can now drop leather boots as a rare drop
+[*]Disco Zombie can now have a rare drop of any record or a jukebox
+[*]Fixed Zombie Butcher only dropping raw beef
+[*]Removed iron ingot rare drop for Zombie Pirate
+[*]Removed unused texture
+[/list]
+1.53:
+[list]
+[*]All mobs now have step sounds
+[*]Survivors can now be given iron ingots
+[*]Survivors now let off smoke when iron ingots are given to them
+[*]Disco Zombies now spawn music note particles
+[*]Added mcmod.info file
+[*]Zombie Notch and Zombie Herobrine now drop around 1 level of xp on death
+[*]Fixed Zombie Notch not instakilling people wearing full diamond armor
+[*]Zombie Herobrine now has a flaming effect
+[*]Changed filesystem in the zipfile
+[/list]
+1.52:
+[list]
+[*]Updated for Minecraft 1.5.2
+[*]Zombie Notch no longer causes console errors
+[/list]
+1.51:
+[list]
+[*]Right-click a survivor with a spawn egg to spawn it in child form
+[*]Fixed survivors glitching through ground
+[*]Survivors now walk around more often
+[*]Zombie Butcher now attacks cows, pigs, and chickens
+[*]Zombie mob eggs now have the correct coloring
+[*]New Survivor mob egg coloring
+[/list]
+1.5:
+[list]
+[*]Updated for Minecraft 1.5.1
+[*]Added dungeons for the mobs
+[*]Added the Zombie Butcher
+[*]Fixed major survivor spawn rate bug
+[/list]
+1.42:
+[list]
+[*]Disco Zombies now play and dance to music
+[*]Zombie Knights now wear a chainmail chestplate
+[*]Zombie Creepers now blow up villagers
+[*]Fixed Cookie Zombie not making zombie sounds
+[/list]
+1.41:
+[list]
+[*]Readded cape support; see install instructions
+[*]Fixed Zombie Creeper model missing
+[*]Fixed Zombie Dwarf and Zombie Creeper having Zombie Pirate textures
+[*]Fixed Disco Zombie dropping redstone
+[*]Added Survivors in creative menu with minimal features
+[*]Adjusted mob egg textures
+[/list]
+1.4:
+[list]
+[*]Mod now uses Forge
+[*]Client and server mod are now 1 file
+[*]Fixed minor rare drop bugs
+[*]Optimized mob code
+[*]This update may contain missing/broken features. If you do not want to risk bugs, use the version before this one which does not use Forge.
+[/list]
+1.34:
+[list]
+[*]Changed cape texture host
+[*]Fixed Zombie Notch not attacking Zombie Herobrine
+[*]Improved Zombie Knight texture
+[*]Improved textures for upcoming features
+[/list]
+1.33:
+[list]
+[*]Minor bug fixes
+[/list]
+1.32:
+[list]
+[*]Added German language translation
+[*]Added the rest of the mobheads.
+[/list]
+1.31:
+[list]
+[*]Updated to Minecraft 1.4.6
+[*]New mob Zombie Knight
+[*]2 mobheads
+[*]Language file support
+[*]Fixed many old bugs.
+[/list]
+1.3:
+[list]
+[*]Updated to Minecraft 1.4.5
+[*]Zombie Notch now fights Zombie Herobrine
+[*]Zombie Herobrine now has 2x health and has a rare drop of diamond.
+[/list]
+1.27:
+[list]
+[*]Zombie Miners have new rare drops"Coal, iron/stone pickaxe,iron ingot"
+[*]Fixed Zombie Notch dropping other rare drops "iron helmet, iron, etc."
+[*]Fixed Zombie Herobrine not walking fast
+[*]Zombie Herobrine now drops fire blocks
+[*]Nether Zombies now have rare drops related to the nether"netherwart,magma cream, ghast tears, blaze powder"
+[*]Readded the Survivor.
+[/list]
+1.26:
+[list]
+[*]Fixed random crashes
+[*]Tweaked the Zombie Cyborg sound
+[/list]
+1.25:
+[list]
+[*]Updated for Minecraft 1.3.2
+[*]Added mob spawn eggs for the mobs
+[*]New texture for the Cookie Zombie
+[*]Tweaked Survivor spawn rates
+[*]Fixed rare drops not dropping in some mobs
+[/list]
+1.2:
+[list]
+[*]Added Disco Zombie
+[*]Added Zombie King
+[*]Improved spawn rates
+[*]Fixed AI bug
+[/list]
+1.1:
+[list]
+[*]Updated to Minecraft 1.2.5
+[*]Fixed major bugs with the survivor mob (Crashing when attacking them)
+[*]Added Zombie Herobrine
+[*]Zombies now lift their arms up
+[*]Added rare drops for Zombie Notch and Zombie Pirates
+[*]Cleaned up code
+[*]Fixed Nether Zombies not spawning
+[*]Added AI code.
+[/list]
+1.02:
+[list]
+[*]Added the new Survivor mob
+[/list]
+1.01:
+[list]
+[*]Updated to Minecraft 1.1
+[*]Zombie Pirates now drop gold nuggets
+[*]Tweaked speed of Cookie Zombie and Zombie Notch
+[/list]
+1.0:
+[list]
+[*]Re-coded all the zombies
+[*]Added Zombie Dwarfs that drop coal
+[*]Added README file in .zips
+[*]Removed unused textures
+[*]Renamed Hell Zombie to Nether Zombie
+[/list]
+0.95:
+[list]
+[*]Added Zombie Creeper Cape
+[*]Zombie Pa now drops leather
+[*]Added a Zombie Cyborg
+[*]Cleaned up code
+[/list]
+0.9:
+[list]
+[*]Complete re-code for Minecraft 1.8.1
+[*]Brighter textures
+[/list]
+0.85:
+[list]
+[*]Added Zombie Pa
+[*]Added Hell Zombies
+[*]Fixed Cookie Zombie's eye
+[*]Nerfed Zombie Miner's drops to cobblestone
+[/list]
+0.8:
+[list]
+[*]Fixed mobs not spawning
+[/list]
+0.7:
+[list]
+[*]Added Zombie Creeper that drops TNT
+[*]Added Zombie Pirates
+[/list]
+0.6:
+[list]
+[*]Added Cookie Zombie
+[*]Fixed Zombie Notch's instant kill bug
+[/list]
+0.5:
+[list]
+[*]First release
+[/list]
+[/spoiler][/quote]
+[/quote]
+[/quote]
+[/quote]
+[/quote]
+[/quote]
+[/quote]
+[/spoiler]
